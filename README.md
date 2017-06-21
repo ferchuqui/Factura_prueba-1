@@ -1,2 +1,2 @@
-# Factura_prueba
-Ejercicio de Factura
+# factura
+Ejemplo de modelado implementado en Java
