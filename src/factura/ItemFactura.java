@@ -1,14 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package factura;
-
-/**
- *
- * @author alumno
- */
 public class ItemFactura {
     private Double cantidad, precio;
     private Item item_factura;
@@ -35,8 +24,5 @@ public class ItemFactura {
 
     public void setItem_factura(Item item_factura) {
         this.item_factura = item_factura;
-    }
-    
-    
-    
+    }   
 }
